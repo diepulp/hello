@@ -1,0 +1,15 @@
+{
+  "name": "vivanovg/328/hello",
+  "description": "First MVC project",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "diepulp",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
